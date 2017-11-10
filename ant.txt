@@ -1,0 +1,3 @@
+④、build.xml里面配置
+<get src="http://ufpr.dl.sourceforge.net/project/ant-eclipse/ant-eclipse/1.0/ant-eclipse-1.0.bin.tar.bz2"
+结局ant eclipse ssh问题
